@@ -70,6 +70,7 @@ used.
 #### Power Report:
 
 #### Timing Report: 
+![WhatsApp Image 2024-11-22 at 12 02 48_7dfb2018](https://github.com/user-attachments/assets/429c27af-4f90-4884-a65c-378f51eedef7)
 
 #### Result: 
 
